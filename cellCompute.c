@@ -1,3 +1,5 @@
+/* Question asked at microsoft */
+
 #include<stdio.h>
 #include<math.h>
 
